@@ -3,5 +3,11 @@
 
 The dataset is a .h5 file containing both the feature vector and metadata as a single Dataframe. A sample .ipynb file to access the dataset has been included in this repo.
 
-## tritium.h5 contains ~23k samples (inclusive of malicious and benign)
-## tritium_unseen.h5 contains ~14k samples from malware families not seen in BODMAS
+## tritium.h5 contains 
+~23k samples (inclusive of malicious and benign)
+
+
+## tritium_unseen.h5 contains 
+~14k samples from malware families not seen in BODMAS
+
+Link to dataset(s): https://drive.google.com/drive/folders/1KGeUYS7SKCJprYJQoqPqew0DXnaDGQgz?usp=sharing
