@@ -1,7 +1,7 @@
 # TRITIUM
 ## Malwarebazaar dataset from ~2022 threat actors (used in Rapidrift study)
 
-The dataset is a .h5 file containing both the feature vector and metadata as a single Dataframe. A sample .ipynb file to access the dataset has been included in this repo.
+The dataset is a .h5 file containing both the feature vector and metadata as a single Dataframe which can be loaded into pandas (key='xy').
 
 ## tritium.h5 contains 
 ~23k samples (inclusive of malicious and benign)
